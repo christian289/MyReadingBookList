@@ -8,5 +8,6 @@
 ## 읽는 중
 
 1. [CLR via C#](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=49012922) ISBN: 9788994774831
+2. [오브젝트](https://aladin.co.kr/shop/wproduct.aspx?ItemId=193681076) ISBN: 9791158391409
 
 ## 보유 중
