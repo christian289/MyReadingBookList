@@ -13,5 +13,8 @@
 
 1. [CLR via C#](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=49012922) ISBN: 9788994774831
 2. [오브젝트](https://aladin.co.kr/shop/wproduct.aspx?ItemId=193681076) ISBN: 9791158391409
+3. [이와타씨에게 묻다](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=272251382) ISBN: 9791189318246
 
 ## 보유 중
+
+1. [요즘 팀장은 이렇게 일합니다](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=274364114) ISBN: 9788927812395
