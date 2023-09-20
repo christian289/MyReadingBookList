@@ -4,6 +4,10 @@
 
 1. [리그 오브 레전드 플레이어 중심주의](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=323999437) ISBN: 9791191905373
 2. [고성능 .NET 코드 프로그래밍](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=75388863) ISBN: 9791186697108
+3. [행복의 기원](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=273139330) ISBN: 9788950995553
+4. [회복탄력성](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=187544571) ISBN: 9791189938772
+5. [애자일 조직은 이렇게 일합니다](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=296976761&start=slayer) ISBN: 9788966263608
+6. [비폭력대화](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=125174961) ISBN: 9791185121147
 
 ## 읽는 중
 
