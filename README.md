@@ -18,3 +18,5 @@
 ## 보유 중
 
 1. [요즘 팀장은 이렇게 일합니다](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=274364114) ISBN: 9788927812395
+2. [이펙티브 소프트웨어 테스팅](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=311329128&start=slayer) ISBN: 9791192469744
+3. [도메인 주도 설계 철저 입문](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=252622256) ISBN: 9791158392246
