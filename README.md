@@ -28,3 +28,13 @@
 8. [C#으로 배우는 적응형 코드](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=70396929) ISBN: 9791185890371
 9. [Functional C#](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=182496337&start=slayer) ISBN: 9791161752754
 10. [You, I, AND ReactiveUI](https://www.blurb.com/b/8680442-you-i-and-reactiveui-color-hardcover) ISBN: 9781388578381
+11. [SQL SERVER 튜닝 가이드](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=292604393) ISBN: 9791188427048
+12. [처음 만나는 WSL](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=290145237) ISBN: 9791162245293
+13. [성공과 실패를 결정하는 1%의 네트워크 원리](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=243233851&start=slayer) ISBN: 9788931556742
+14. [리팩터링 2판](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=236186172&start=slayer) ISBN: 9791162242742
+15. [웹 앱 API 개발을 위한 GraphQL](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=214316947&start=slayer) ISBN: 9788966262533
+16. [클린 아키텍쳐](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=202322454) ISBN: 9788966262472
+17. [SQL 코딩의 기술](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=124421253) ISBN: 9791160503425
+18. [프로패셔널 엔터프라이즈 닷넷](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=7776938) ISBN: 9788994506043
+19. [쿠버네티스 인 액션](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=235962702&start=slayer) ISBN: 9791161754048
+20. [도커에서 윈도우 컨테이너 사용하기 2/e](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=280895443&start=slayer) ISBN: 9791161755762
