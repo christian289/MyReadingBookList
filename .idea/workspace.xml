@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="216c31c7-6f6f-454d-8df9-e0d03b590eec" name="변경" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/이와타씨에게 묻다/Writerside/c.list" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/이와타씨에게 묻다/Writerside/cfg/buildprofiles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/이와타씨에게 묻다/Writerside/in.tree" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/이와타씨에게 묻다/Writerside/topics/1. 이와타씨가 사장이 되기까지.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/이와타씨에게 묻다/Writerside/topics/2. 이와타씨의 리더십.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/이와타씨에게 묻다/Writerside/topics/3. 이와타씨의 개성.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/이와타씨에게 묻다/Writerside/topics/4. 이와타씨가 믿는 사람.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/이와타씨에게 묻다/Writerside/topics/5. 이와타씨가 지향하는 게임.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/이와타씨에게 묻다/Writerside/topics/6. 이와타씨를 말한다.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/이와타씨에게 묻다/Writerside/topics/7. 이와타씨라는 사람.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/이와타씨에게 묻다/Writerside/v.list" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/이와타씨에게 묻다/Writerside/writerside.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyQuotes/이와타씨에게 묻다.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="InstanceColorv3">
+    <option name="map">
+      <map>
+        <entry key="in.tree">
+          <value>
+            <ColorState>
+              <option name="customOrder" value="1" />
+              <option name="first">
+                <RgbState>
+                  <option name="blue" value="60" />
+                  <option name="darkBlue" value="60" />
+                  <option name="darkGreen" value="68" />
+                  <option name="darkRed" value="206" />
+                  <option name="green" value="68" />
+                  <option name="red" value="206" />
+                </RgbState>
+              </option>
+              <option name="second">
+                <RgbState>
+                  <option name="blue" value="65" />
+                  <option name="darkBlue" value="65" />
+                  <option name="darkGreen" value="126" />
+                  <option name="darkRed" value="231" />
+                  <option name="green" value="126" />
+                  <option name="red" value="231" />
+                </RgbState>
+              </option>
+            </ColorState>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2Wsjyu6EXHfGMSh5LoXPzEYAD4Q" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/github/MyReadingBookList/이와타씨에게 묻다/Writerside/topics",
+    "writerside.last.selected.productMyReadingBookList": "in"
+  },
+  "keyToStringList": {
+    "stardust.markdown.MarkdownSplitEditorSuppressor:keyList": [
+      "D:/github/MyReadingBookList/이와타씨에게 묻다/Writerside/topics/1. 이와타씨가 사장이 되기까지.md",
+      "D:/github/MyReadingBookList/이와타씨에게 묻다/Writerside/topics/2. 이와타씨의 리더십.md",
+      "D:/github/MyReadingBookList/이와타씨에게 묻다/Writerside/topics/3. 이와타씨의 개성.md",
+      "D:/github/MyReadingBookList/이와타씨에게 묻다/Writerside/topics/4. 이와타씨가 믿는 사람.md",
+      "D:/github/MyReadingBookList/이와타씨에게 묻다/Writerside/topics/7. 이와타씨라는 사람.md"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\github\MyReadingBookList\이와타씨에게 묻다\Writerside\topics" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\github\MyReadingBookList" />
+      <recent name="D:\github\MyReadingBookList\이와타씨에게 묻다\Writerside\topics" />
+      <recent name="D:\github\MyReadingBookList\이와타씨에게 묻다" />
+      <recent name="D:\github\MyReadingBookList\Writerside\topics\이와타씨에게 묻다" />
+      <recent name="D:\github\MyReadingBookList\Writerside\topics" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
+</project>
