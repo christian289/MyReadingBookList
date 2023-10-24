@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="9791189318246"
+                  name="이와타씨에게 묻다" start-page="1. 이와타씨가 사장이 되기까지.md">
+    <toc-element topic="1. 이와타씨가 사장이 되기까지.md"/>
+    <toc-element topic="2. 이와타씨의 리더십.md"/>
+    <toc-element topic="3. 이와타씨의 개성.md"/>
+    <toc-element topic="4. 이와타씨가 믿는 사람.md"/>
+    <toc-element topic="5. 이와타씨가 지향하는 게임.md"/>
+    <toc-element topic="6. 이와타씨를 말한다.md"/>
+    <toc-element topic="7. 이와타씨라는 사람.md"/>
+</instance-profile>
