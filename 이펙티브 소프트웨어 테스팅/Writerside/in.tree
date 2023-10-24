@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="9791192469744"
+                  name="이펙티브 소프트웨어 테스팅" start-page="1. 효율적이고 체계적인 소프트웨어 테스트.md">
+    <toc-element topic="1. 효율적이고 체계적인 소프트웨어 테스트.md"/>
+</instance-profile>
