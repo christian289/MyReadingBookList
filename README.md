@@ -17,6 +17,7 @@
 - [오브젝트](https://aladin.co.kr/shop/wproduct.aspx?ItemId=193681076) ISBN: 9791158391409
 - [이와타씨에게 묻다](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=272251382) ISBN: 9791189318246
 - [이펙티브 소프트웨어 테스팅](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=311329128&start=slayer) ISBN: 9791192469744
+- [크리에이티브 프로그래머](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=324029106&start=slayer) ISBN: 9791169217224
 
 ## 보유 중
 
