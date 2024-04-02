@@ -16,6 +16,7 @@
 ## 읽는 중
 
 - [컴퓨터 밑바닥의 비밀](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=336141360) ISBN: 9791140709038
+- [제로부터 시작하는 러스트 백엔드 프로그래밍](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=333308133&start=slayer) ISBN: 9791192987385
 - [CLR via C#](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=49012922) ISBN: 9788994774831
 - [이와타씨에게 묻다](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=272251382) ISBN: 9791189318246
 - [이펙티브 소프트웨어 테스팅](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=311329128&start=slayer) ISBN: 9791192469744
