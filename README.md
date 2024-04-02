@@ -10,14 +10,15 @@
 4. [회복탄력성](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=187544571) ISBN: 9791189938772
 5. [애자일 조직은 이렇게 일합니다](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=296976761&start=slayer) ISBN: 9788966263608
 6. [비폭력대화](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=125174961) ISBN: 9791185121147
+7. [오브젝트](https://aladin.co.kr/shop/wproduct.aspx?ItemId=193681076) ISBN: 9791158391409
+8. [크리에이티브 프로그래머](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=324029106&start=slayer) ISBN: 9791169217224
 
 ## 읽는 중
 
+- [컴퓨터 밑바닥의 비밀](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=336141360) ISBN: 9791140709038
 - [CLR via C#](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=49012922) ISBN: 9788994774831
-- [오브젝트](https://aladin.co.kr/shop/wproduct.aspx?ItemId=193681076) ISBN: 9791158391409
 - [이와타씨에게 묻다](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=272251382) ISBN: 9791189318246
 - [이펙티브 소프트웨어 테스팅](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=311329128&start=slayer) ISBN: 9791192469744
-- [크리에이티브 프로그래머](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=324029106&start=slayer) ISBN: 9791169217224
 
 ## 보유 중
 
@@ -39,3 +40,12 @@
 - [프로패셔널 엔터프라이즈 닷넷](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=7776938) ISBN: 9788994506043
 - [쿠버네티스 인 액션](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=235962702&start=slayer) ISBN: 9791161754048
 - [도커에서 윈도우 컨테이너 사용하기 2/e](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=280895443&start=slayer) ISBN: 9791161755762
+- [Release의 모든 것](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=330431238) ISBN: 9791169217552
+- [육각형 개발자](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=321520931&start=slayer) ISBN: 9791169217088
+- [코딩 인터뷰를 위한 알고리즘 치트시트](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=306611443&start=slayer) ISBN: 9791192469607
+- [폴리매스](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=328785663&start=slayer) ISBN: 9791163862369
+- [내 코드가 그렇게 이상한가요?](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=319536904&start=slayer) ISBN: 9788966264131
+- [오픈 소스 소프트웨어 아키텍처](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=270022091&start=slayer) ISBN: 9788966261444
+- [프로그래밍 대회 공략을 위한 알고리즘과 자료 구조 입문](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=285917705&start=slayer) ISBN: 9788966263387
+- [가상 면접 사례로 배우는 대규모 시스템 설계 기초](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=278536695&start=slayer) ISBN: 9788966263240
+- [가상 면접 사례로 배우는 대규모 시슽메 설계 기초2](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=332736662) ISBN: 9788966264339
